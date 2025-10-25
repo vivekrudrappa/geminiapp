@@ -1,0 +1,5 @@
+{
+  "name": "Astra AI Chat Platform",
+  "description": "A futuristic, multi-tenant AI chat platform that allows companies to integrate various LLM APIs, configure RAG URLs, set guardrails, and manage teams and branding. The interface is designed to be sleek, intuitive, and platform-agnostic, similar to leading AI chat UIs.",
+  "requestFramePermissions": []
+}
